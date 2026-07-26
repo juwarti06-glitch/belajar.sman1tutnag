@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Mengajar SMA N 1 Tuntang",
+  "description": "Aplikasi Web Jurnal Mengajar Guru SMA Negeri 1 Tuntang dengan Panel Admin, Form Jurnal Harian (JP 1-10 & Presensi Siswa), Impor/Ekspor Excel, Rekapitulasi & Sync Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
